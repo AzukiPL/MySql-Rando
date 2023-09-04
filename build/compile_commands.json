@@ -1,0 +1,12 @@
+[
+{
+  "directory": "F:/dev/MySql Rando/MySql-Randomizer 3.0/build",
+  "command": "F:\\C++\\Compiler\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\Randomizer.dir\\main.cpp.obj -c \"F:\\dev\\MySql Rando\\MySql-Randomizer 3.0\\main.cpp\"",
+  "file": "F:/dev/MySql Rando/MySql-Randomizer 3.0/main.cpp"
+},
+{
+  "directory": "F:/dev/MySql Rando/MySql-Randomizer 3.0/build",
+  "command": "F:\\C++\\Compiler\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\Randomizer.dir\\MyApp.cpp.obj -c \"F:\\dev\\MySql Rando\\MySql-Randomizer 3.0\\MyApp.cpp\"",
+  "file": "F:/dev/MySql Rando/MySql-Randomizer 3.0/MyApp.cpp"
+}
+]
